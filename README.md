@@ -51,7 +51,7 @@ We are missing ones for
 ## Goals:
 1. high availability.  uptime guarantees.  SLA.
 2. no packets dropped (within reason!)
-3. users are NOT OPS.  Users should not be admins on the hosting machines.  They should know where the machines are, or care.
+3. users are NOT OPS.  Users should not be admins on the hosting machines.  They should **NOT** know where the machines are, or care.
 4. forgiveness over permission.  It's up to ops to warn you if you are getting close to overflowing.  It's up to you to prevent it.
 
 ## Fantasy:
